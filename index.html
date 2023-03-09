@@ -18,13 +18,24 @@
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
+				
+				<!-- Language selector -->
+				<div class="language-picker">
+					<select name="language-picker-select" id="language-picker-select" class="selecteur">
+						<option lang="fr" value="french" selected>Français</option>
+						<option lang="en" value="english">English</option>
+						<option lang="de" value="deutsch" data-icon="🇩🇪">Deutsch</option>
+						<option lang="it" value="italiano">Italiano</option>
+					</select>
+				</div>
+
 
 				<!-- Intro -->
 					<div id="intro">
-						<h1>Hi<span>&#128075;</span><br />
+						<h1 id="title1">Hi<span>&#128075;</span><br />
 						I'm Enzo,<br />
 						The unknown developer</h1>
-						<p>My personal portfolio</p>
+						<p id="portfolio">My personal portfolio</p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
@@ -57,8 +68,8 @@
 						<!-- Featured Post -->
 							<article class="post featured" style="padding-bottom: 0;">
 								<header class="major">
-									<h2>What about me ?</h2>
-									<p>I'm a developer who is curious and passionate about web development, but more broadly, I love coding in all forms. 
+									<h2 id="about">About me ?</h2>
+									<p id="text_about">I'm a developer who is curious and passionate about web development, but more broadly, I love coding in all forms. 
 										I'm French and currently pursuing my Tech Lead Master's degree in Bordeaux. 
 										I enjoy learning new things and taking on new projects. 
 										I'm always looking for new challenges to improve my skills and achieve my goals. 
@@ -68,15 +79,15 @@
 							</article>
 
 						<!-- Posts -->
-						<h2 style="text-align: center; font-size: 45px; padding-bottom: 0;">Some projects of me</h2>
+						<h2 style="text-align: center; font-size: 35px; padding: 0;" id="title2">Some of my projects</h2>
 							<section class="posts">
 								<article>
 									<header>
 										<h2><a href="https://enzo-cornaggia.emi.u-bordeaux.fr/hide/rawg/" target="_blank">Discovery Games<br />
-										My video game website</a></h2>
+										Video game website</a></h2>
 									</header>
 									<a href="https://enzo-cornaggia.emi.u-bordeaux.fr/hide/rawg/" class="image fit" target="_blank"><img src="images/Sans titre (2).png" alt="" /></a>
-									<p style="margin: 0; text-align: center;">This is a website that lists over 2400 games. You can view user ratings, game descriptions, screenshots, 
+									<p id="project1" style="margin: 0; text-align: center;">This is a website that lists over 2400 games. You can view user ratings, game descriptions, screenshots, 
 										developers, and much more. The site is entirely dynamic and generated using :</p>
 										<ul class="icons alt">
 											<li style="cursor: pointer;">
@@ -96,7 +107,7 @@
 										2D game</a></h2>
 									</header>
 									<a href="https://enzo-cornaggia.emi.u-bordeaux.fr/hide/lightup06/game.html" class="image fit" target="_blank"><img src="images/Lightup.png" alt="" /></a>
-									<p style="margin: 0; text-align: center;;">A simple 2D game. In a randomly generated grid with walls, your goal is to light up the entire grid. But be careful, there may be traps. The site is dynamic and generated using :</p>
+									<p id="project2" style="margin: 0; text-align: center;;">A simple 2D game. In a randomly generated grid with walls, your goal is to light up the entire grid. But be careful, there may be traps. The site is dynamic and generated using :</p>
 									<ul class="icons alt">
 										<li style="cursor: pointer;">
 											<i title="C" style="margin-right: 10px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" style="width: 15px"><path d="M329.1 142.9c-62.5-62.5-155.8-62.5-218.3 0s-62.5 163.8 0 226.3s155.8 62.5 218.3 0c12.5-12.5 32.8-12.5 45.3 0s12.5 32.8 0 45.3c-87.5 87.5-221.3 87.5-308.8 0s-87.5-229.3 0-316.8s221.3-87.5 308.8 0c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0z"/></svg></i>
@@ -143,10 +154,10 @@
 							</section>
 						</section>
 					</footer>
-s
+
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy; Enzo Cornaggia</li><li>Design: <a href="#">By me</a></li><li id="dateHeure"></li></ul>
+						<ul style="font-size: 18px;"><li>&copy; Enzo Cornaggia</li><li>Design: <a href="#">By me</a></li><li id="dateHeure"></li></ul>
 					</div>
 
 			</div>
@@ -159,14 +170,7 @@ s
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script>
-				function doDate() {
-				var now = new Date();
-				str = now.toLocaleDateString("en") + "&nbsp;&nbsp;" + now.toLocaleTimeString("fr");
-				document.getElementById("dateHeure").innerHTML = str;
-			}
-			setInterval(doDate, 1000);
-			</script>
+			<script src="assets/js/language.js"></script>
 
 	</body>
 </html>
