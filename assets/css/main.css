@@ -291,6 +291,19 @@ input, select, textarea {
 		color: #212931;
 	}
 
+	.cv {
+		max-width: 500px;
+		height: auto;
+	}
+	@media screen and (max-width: 750px){
+		.cv {
+			max-width: 200px;
+			height: auto;
+			margin-bottom: 30px;
+		}
+	}
+
+
 	a {
 		color: #212931;
 		border-bottom-color: rgba(33, 41, 49, 0.5);
