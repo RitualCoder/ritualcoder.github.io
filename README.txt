@@ -2,4 +2,4 @@ My web portfolio
 
 You can check the site at this adress : 
 
-https://enzocornaggia.github.io
+https://ritualcoder.github.io
