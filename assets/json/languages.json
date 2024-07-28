@@ -72,6 +72,12 @@
             "italiano": "Generatore di kit UI che crea CSS personalizzati per componenti HTML (pulsanti, griglie, tipografia, ecc.). Garantisce buone pratiche UI/UX per interfacce coerenti ed ergonomiche. Il sito è interamente dinamico e generato utilizzando:",
             "deutsch": "UI-Kit-Generator, der benutzerdefiniertes CSS für HTML-Komponenten (Schaltflächen, Raster, Typografie usw.). Sorgt für gute UI/UX-Praktiken für konsistente und ergonomische Schnittstellen. Die Seite ist völlig dynamisch und generiert mit:"
         },
+        "wawTravel": {
+            "english": "Wow Travel is a website that allows users to post and share road trips with detailed stages. Each itinerary can be visualized on Google Maps for an interactive experience. Users also have an account space to manage and track their adventures. The site is entirely dynamic and generated using :",
+            "french": "Wow Travel est un site Web qui permet aux utilisateurs de publier et de partager des road trips avec des étapes détaillées. Chaque itinéraire peut être visualisé sur Google Maps pour une expérience interactive. Les utilisateurs disposent également d'un espace compte pour gérer et suivre leurs aventures. Le site est entièrement dynamique et généré à l'aide de :",
+            "italiano": "Wow Travel è un sito Web che consente agli utenti di pubblicare e condividere viaggi su strada con tappe dettagliate. Ogni itinerario può essere visualizzato su Google Maps per un'esperienza interattiva. Gli utenti hanno anche uno spazio account per gestire e tenere traccia delle proprie avventure. Il sito è interamente dinamico e generato utilizzando :",
+            "deutsch": "Wow Travel ist eine Website, auf der Benutzer Roadtrips mit detaillierten Etappen posten und teilen können. Für ein interaktives Erlebnis kann jede Reiseroute auf Google Maps visualisiert werden. Benutzer haben außerdem einen Kontobereich, in dem sie ihre Abenteuer verwalten und verfolgen können. Die Website ist vollständig dynamisch und wird erstellt mit :"
+        },
         "cv": {
             "english": "MY CV",
             "french": "Mon CV",
@@ -101,6 +107,12 @@
             "french": "Voir le code",
             "italiano": "Vedi il codice",
             "deutsch": "Siehe Code"        
+        },
+        "kituiButton" : {
+            "english": "Generate ur Kit UI now",
+            "french": "Générer votre kit UI",
+            "italiano": "Genera kit UI",
+            "deutsch": "UI-Kit generieren"        
         },
         "me": {
             "english": "Me",

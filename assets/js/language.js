@@ -62,6 +62,11 @@ function replace_text(country) {
     project7.innerHTML = jsondata[0].project7[country];
   }
 
+  const wawTravel = document.getElementById("wawTravel");
+  if (wawTravel) {
+    wawTravel.innerHTML = jsondata[0].wawTravel[country];
+  }
+
   const cv = document.getElementById("cv");
   if (cv) {
     cv.innerHTML = jsondata[0].cv[country];
@@ -85,6 +90,16 @@ function replace_text(country) {
   const calculator = document.getElementById("calculator");
   if (calculator) {
     calculator.textContent = jsondata[0].calculator[country];
+  }
+
+  const wawTravelButton = document.getElementById("wawTravelButton");
+  if (wawTravelButton) {
+    wawTravelButton.textContent = jsondata[0].calculator[country];
+  }
+
+  const kitUiButton = document.getElementById("kituiButton");
+  if (kitUiButton) {
+    kitUiButton.textContent = jsondata[0].kituiButton[country];
   }
 
   const me = document.getElementById("me");
