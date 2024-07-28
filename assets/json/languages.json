@@ -66,6 +66,12 @@
             "italiano": "Progetto C che consente di compilare e visualizzare un sottoinsieme di soluzioni ai problemi matematici da Project Euler (un sito Web che offre problemi matematici e informatici). Il linguaggio utilizzato è:",
             "deutsch": "C-Projekt, das das Kompilieren und Anzeigen einer Teilmenge von Lösungen für die mathematischen Probleme von Project Euler (einer Website, die mathematische und Informatikprobleme anbietet) ermöglicht. Die verwendete Sprache ist :"
         },
+        "project7": {
+            "english": "UI kit generator creating custom CSS for HTML components (buttons, grids, typography, etc.). Ensures good UI/UX practices for consistent and ergonomic interfaces. The site is entirely dynamic and generated using :",
+            "french": "Générateur de kit d'interface utilisateur créant du CSS personnalisé pour les composants HTML (boutons, grilles, typographie, etc.). Garantit les bonnes pratiques UI/UX pour interfaces cohérentes et ergonomiques. Le site est entièrement dynamique et généré en utilisant :",
+            "italiano": "Generatore di kit UI che crea CSS personalizzati per componenti HTML (pulsanti, griglie, tipografia, ecc.). Garantisce buone pratiche UI/UX per interfacce coerenti ed ergonomiche. Il sito è interamente dinamico e generato utilizzando:",
+            "deutsch": "UI-Kit-Generator, der benutzerdefiniertes CSS für HTML-Komponenten (Schaltflächen, Raster, Typografie usw.). Sorgt für gute UI/UX-Praktiken für konsistente und ergonomische Schnittstellen. Die Seite ist völlig dynamisch und generiert mit:"
+        },
         "cv": {
             "english": "MY CV",
             "french": "Mon CV",
