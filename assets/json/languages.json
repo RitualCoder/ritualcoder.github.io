@@ -78,6 +78,12 @@
             "italiano": "Wow Travel è un sito Web che consente agli utenti di pubblicare e condividere viaggi su strada con tappe dettagliate. Ogni itinerario può essere visualizzato su Google Maps per un'esperienza interattiva. Gli utenti hanno anche uno spazio account per gestire e tenere traccia delle proprie avventure. Il sito è interamente dinamico e generato utilizzando :",
             "deutsch": "Wow Travel ist eine Website, auf der Benutzer Roadtrips mit detaillierten Etappen posten und teilen können. Für ein interaktives Erlebnis kann jede Reiseroute auf Google Maps visualisiert werden. Benutzer haben außerdem einen Kontobereich, in dem sie ihre Abenteuer verwalten und verfolgen können. Die Website ist vollständig dynamisch und wird erstellt mit :"
         },
+        "eden": {
+            "english": "This is a showcase site for Eden, a mobile application designed to maintain and rekindle love in old couples. The site is entirely dynamic and generated using :",
+            "french": "Il s’agit d’un site vitrine pour Eden, une application mobile conçue pour entretenir et raviver l’amour dans les vieux couples. Les langages utilisées sont :",
+            "italiano": "Questo è un sito vetrina per Eden, un'applicazione mobile progettata per mantenere e ravvivare l'amore nelle vecchie coppie. Il sito è interamente dinamico e generato utilizzando :",
+            "deutsch": "Dies ist eine Vorzeigeseite für Eden, eine mobile Anwendung, die entwickelt wurde, um die Liebe bei alten Paaren aufrechtzuerhalten und wiederzubeleben. Die Website ist vollständig dynamisch und wird generiert mit :"
+        },
         "cv": {
             "english": "MY CV",
             "french": "Mon CV",
@@ -91,10 +97,10 @@
             "deutsch": "Lebenslauf ansehen"        
         },
         "discoverygames": {
-            "english": "Find your fav game",
-            "french": "Trouve ton jeu préféré",
-            "italiano": "Trova il tuo gioco preferito",
-            "deutsch": "Finden Sie Ihr Lieblingsspiel"        
+            "english": "Find your fav game 🎮",
+            "french": "Trouve ton jeu préféré 🎮",
+            "italiano": "Trova il tuo gioco preferito 🎮",
+            "deutsch": "Finden Sie Ihr Lieblingsspiel 🎮"        
         },
         "lightup": {
             "english": "Wanna play ?",
@@ -131,6 +137,18 @@
             "french": "Voir les solutions ?",
             "italiano": "Vedi soluzioni ?",
             "deutsch": "Lösungen sehen ?"        
+        },
+        "btn_allProjects": {
+            "english": "See all my projects",
+            "french": "Voir tous mes projets",
+            "italiano": "Vedi tutti i miei progetti",
+            "deutsch": "Alle meine Projekte ansehen"     
+        },
+        "btn_eden" : {
+            "english": "Nurture your love ♥️",
+            "french": "Nourrissez votre amour ♥️",
+            "italiano": "Nutri il tuo ♥️",
+            "deutsch": "Pflegen Sie Ihr ♥️"
         }
     }
 ]

@@ -67,6 +67,11 @@ function replace_text(country) {
     wawTravel.innerHTML = jsondata[0].wawTravel[country];
   }
 
+  const eden = document.getElementById("eden");
+  if (eden) {
+    eden.innerHTML = jsondata[0].eden[country];
+  }
+
   const cv = document.getElementById("cv");
   if (cv) {
     cv.innerHTML = jsondata[0].cv[country];
@@ -75,6 +80,16 @@ function replace_text(country) {
   const btn_cv = document.getElementById("btn_cv");
   if (btn_cv) {
     btn_cv.innerHTML = jsondata[0].btncv[country];
+  }
+
+  const btn_allProjects = document.getElementById("btn_allProjects");
+  if (btn_allProjects) {
+    btn_allProjects.innerHTML = jsondata[0].btn_allProjects[country];
+  }
+
+  const btn_eden = document.getElementById("btn_eden");
+  if (btn_eden) {
+    btn_eden.innerHTML = jsondata[0].btn_eden[country];
   }
 
   const discoverygames = document.getElementById("discoverygames");
