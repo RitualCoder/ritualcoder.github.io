@@ -1,154 +1,166 @@
 [
-    {
-        "title": {
-            "english": "Hi<span>&#128075;</span><br />I'm Enzo,<br/>The unknown developer",
-            "french": "Salut<span>&#128075;</span><br />Je suis Enzo,<br />Le développeur inconnue",
-            "italiano": "Ciao<span>&#128075;</span><br /> Sono Enzo,<br/>lo sviluppatore sconosciuto",
-            "deutsch": "Hallo<span>&#128075;</span><br /> Ich bin Enzo,<br/> der unbekannte Entwickler"
-        }, 
-        "portfolio": {
-            "english": "My personal portfolio",
-            "french": "Mon portfolio personnel",
-            "italiano": "Il mio portafoglio personale",
-            "deutsch": "Mein persönliches Portfolio"
-        }, 
-        "about": {
-            "english": "About me",
-            "french": "A propos de moi",
-            "italiano": "Su di me",
-            "deutsch": "Über mich"
-        }, 
-        "text_about": {
-            "english": "I'm a developer who is curious and passionate about web development, but more broadly, I love coding in all forms. I'm French and currently pursuing my Tech Lead Master's degree in Bordeaux. I enjoy learning new things and taking on new projects. I'm always looking for new challenges to improve my skills and achieve my goals. If you're looking for a curious and passionate developer, you've come to the right place!",
-            "french": "Je suis un développeur curieux et passionné par le développement web, mais plus largement, j'aime programmer sous toutes ses formes. Je suis Français et poursuis actuellement mon Master de Tech Lead à Bordeaux. J'aime apprendre de nouvelles choses et entreprendre de nouveaux projets. Je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et atteindre mes objectifs. Si vous cherchez un développeur curieux et passionné, vous êtes au bon endroit !",
-            "italiano": "Sono uno sviluppatore curioso e appassionato di sviluppo web, ma più in generale, amo programmare in tutte le forme. Sono francese e attualmente sto seguendo il mio Master di Tech Lead a Bordeaux. Mi piace imparare cose nuove e prendere nuovi progetti. Sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e raggiungere i miei obiettivi. Se stai cercando uno sviluppatore curioso e appassionato, sei nel posto giusto!",
-            "deutsch": "Ich bin ein Entwickler, der neugierig und leidenschaftlich für Webentwicklung ist, aber im Allgemeinen liebe ich das Codieren in allen Formen. Ich bin Franzose und verfolge derzeit meinen Tech-Lead-Master-Abschluss in Bordeaux. Ich genieße es, neue Dinge zu lernen und neue Projekte anzunehmen. Ich suche immer nach neuen Herausforderungen, um meine Fähigkeiten zu verbessern und meine Ziele zu erreichen. Wenn Sie einen neugierigen und leidenschaftlichen Entwickler, sind Sie hier genau richtig!"
-        }, 
-        "title2": {
-            "english": "Some of my projects",
-            "french": "Quelques uns de mes projets",
-            "italiano": "Alcuni dei miei progetti",
-            "deutsch": "Einige meiner Projekte"
-        }, 
-        "project1": {
-            "english": "This is a website that lists over 2400 games. You can view user ratings, game descriptions, screenshots, developers, and much more. The site is entirely dynamic and generated using :",
-            "french": "Il s'agit d'un site Web qui répertorie plus de 2400 jeux. Vous pouvez afficher les évaluations des utilisateurs, les descriptions de jeux, les captures d'écran, les développeurs et bien plus encore. Le site est entièrement dynamique et généré à l'aide de :",
-            "italiano": "Questo è un sito Web che elenca oltre 2400 giochi. Puoi visualizzare le valutazioni degli utenti, le descrizioni dei giochi, gli screenshot, gli sviluppatori e molto altro. Il sito è interamente dinamico e generato utilizzando :",
-            "deutsch": "Dies ist eine Website, die über 2400 Spiele auflistet. Sie können Benutzerbewertungen, Spielbeschreibungen, Screenshots, Entwickler und vieles mehr anzeigen. Die Website ist vollständig dynamisch und wird generiert mit :"
-        }, 
-        "project2": {
-            "english": "A simple 2D game. In a randomly generated grid with walls, your goal is to light up the entire grid. But be careful, there may be traps. The site is dynamic and generated using :",
-            "french": "Un simple jeu 2D. Dans une grille générée aléatoirement avec des murs, votre objectif est d'éclairer toute la grille. Mais attention, il peut y avoir des pièges. Le site est dynamique et généré à l'aide de :",
-            "italiano": "Un semplice gioco 2D. In una griglia generata casualmente con pareti, il tuo obiettivo è illuminare l'intera griglia. Ma attenzione, potrebbero esserci delle trappole. Il sito è dinamico e generato utilizzando :",
-            "deutsch": "Ein einfaches 2D-Spiel. In einem zufällig generierten Raster mit Wänden ist es Ihr Ziel, das gesamte Raster zu beleuchten. Aber seien Sie vorsichtig, es könnten Fallen sein. Die Seite ist dynamisch und wird generiert mit :"
-        },
-        "project3": {
-            "english": "An image server with a client-side component that allows publishing, viewing, downloading, editing, etc. of images. The entire project is portable and reusable on any distribution. The languages used are :",
-            "french": "Un serveur d'images avec un composant côté client qui permet la publication, la visualisation, le téléchargement, l'édition, etc. d'images. L'ensemble du projet est portable et réutilisable sur n'importe quelle distribution. Les les langages utilisées sont :",
-            "italiano": "Un server di immagini con un componente lato client che consente la pubblicazione, la visualizzazione, il download, la modifica, ecc. delle immagini. L'intero progetto è portatile e riutilizzabile su qualsiasi distribuzione. Le lingue utilizzate sono :",
-            "deutsch": "Ein Bildserver mit einer clientseitigen Komponente, die das Veröffentlichen, Anzeigen, Herunterladen, Bearbeiten usw. von Bildern ermöglicht. Das gesamte Projekt ist portabel und auf jeder Distribution wiederverwendbar. Die verwendeten Sprachen sind :"
-        },
-        "project4": {
-            "english": "A calculator using SDL. It's not just any calculator because it allows you to perform extremely large calculations by performing operations on character strings. The language used is :",
-            "french": "Une calculatrice utilisant SDL. Ce n'est pas n'importe quelle calculatrice car elle permet d'effectuer des calculs extrêmement volumineux en effectuant des opérations sur des chaînes de caractères. Le langage utilisé est :",
-            "italiano": "Una calcolatrice che utilizza SDL. Non è una calcolatrice qualsiasi perché permette di eseguire calcoli estremamente grandi eseguendo operazioni su stringhe di caratteri. Il linguaggio utilizzato è:",
-            "deutsch": "Ein Taschenrechner mit SDL. Es ist nicht irgendein Taschenrechner, da es Ihnen ermöglicht, extrem umfangreiche Berechnungen durchzuführen, indem Sie Operationen an Zeichenfolgen ausführen. Die verwendete Sprache ist :"
-        },
-        "project5": {
-            "english": "A 2D game embodying an adventurer who aims to save his princess. He will have to go through various levels, traps and monsters to achieve his goal. The language used is :",
-            "french": "Un jeu en 2D incarnant un aventurier qui a pour objectif de sauver sa princesse. Il devra passer par différents niveaux, pièges et monstres pour parvenir à son but. Le langage utilisé est :",
-            "italiano": "Un gioco in 2D che incarna un avventuriero che mira a salvare la sua principessa. Dovrà passare attraverso vari livelli, trappole e mostri per raggiungere il suo obiettivo. Il linguaggio utilizzato è:",
-            "deutsch": "Ein 2D-Spiel, das einen Abenteurer verkörpert, der darauf abzielt, seine Prinzessin zu retten. Er muss durch verschiedene Levels, Fallen und Monster gehen, um sein Ziel zu erreichen. Die verwendete Sprache ist :"
-        },
-        "project6": {
-            "english": "C project that allows compiling and displaying a subset of solutions to the mathematical problems from Project Euler (a website that offers mathematical and computer science problems). The language used is :",
-            "french": "Projet C qui permet de compiler et d'afficher un sous-ensemble de solutions aux problèmes mathématiques du projet Euler (un site Web qui propose des problèmes mathématiques et informatiques). Le langage utilisé est :",
-            "italiano": "Progetto C che consente di compilare e visualizzare un sottoinsieme di soluzioni ai problemi matematici da Project Euler (un sito Web che offre problemi matematici e informatici). Il linguaggio utilizzato è:",
-            "deutsch": "C-Projekt, das das Kompilieren und Anzeigen einer Teilmenge von Lösungen für die mathematischen Probleme von Project Euler (einer Website, die mathematische und Informatikprobleme anbietet) ermöglicht. Die verwendete Sprache ist :"
-        },
-        "project7": {
-            "english": "UI kit generator creating custom CSS for HTML components (buttons, grids, typography, etc.). Ensures good UI/UX practices for consistent and ergonomic interfaces. The site is entirely dynamic and generated using :",
-            "french": "Générateur de kit d'interface utilisateur créant du CSS personnalisé pour les composants HTML (boutons, grilles, typographie, etc.). Garantit les bonnes pratiques UI/UX pour interfaces cohérentes et ergonomiques. Le site est entièrement dynamique et généré en utilisant :",
-            "italiano": "Generatore di kit UI che crea CSS personalizzati per componenti HTML (pulsanti, griglie, tipografia, ecc.). Garantisce buone pratiche UI/UX per interfacce coerenti ed ergonomiche. Il sito è interamente dinamico e generato utilizzando:",
-            "deutsch": "UI-Kit-Generator, der benutzerdefiniertes CSS für HTML-Komponenten (Schaltflächen, Raster, Typografie usw.). Sorgt für gute UI/UX-Praktiken für konsistente und ergonomische Schnittstellen. Die Seite ist völlig dynamisch und generiert mit:"
-        },
-        "wawTravel": {
-            "english": "Wow Travel is a website that allows users to post and share road trips with detailed stages. Each itinerary can be visualized on Google Maps for an interactive experience. Users also have an account space to manage and track their adventures. The site is entirely dynamic and generated using :",
-            "french": "Wow Travel est un site Web qui permet aux utilisateurs de publier et de partager des road trips avec des étapes détaillées. Chaque itinéraire peut être visualisé sur Google Maps pour une expérience interactive. Les utilisateurs disposent également d'un espace compte pour gérer et suivre leurs aventures. Le site est entièrement dynamique et généré à l'aide de :",
-            "italiano": "Wow Travel è un sito Web che consente agli utenti di pubblicare e condividere viaggi su strada con tappe dettagliate. Ogni itinerario può essere visualizzato su Google Maps per un'esperienza interattiva. Gli utenti hanno anche uno spazio account per gestire e tenere traccia delle proprie avventure. Il sito è interamente dinamico e generato utilizzando :",
-            "deutsch": "Wow Travel ist eine Website, auf der Benutzer Roadtrips mit detaillierten Etappen posten und teilen können. Für ein interaktives Erlebnis kann jede Reiseroute auf Google Maps visualisiert werden. Benutzer haben außerdem einen Kontobereich, in dem sie ihre Abenteuer verwalten und verfolgen können. Die Website ist vollständig dynamisch und wird erstellt mit :"
-        },
-        "eden": {
-            "english": "This is a showcase site for Eden, a mobile application designed to maintain and rekindle love in old couples. The site is entirely dynamic and generated using :",
-            "french": "Il s’agit d’un site vitrine pour Eden, une application mobile conçue pour entretenir et raviver l’amour dans les vieux couples. Les langages utilisées sont :",
-            "italiano": "Questo è un sito vetrina per Eden, un'applicazione mobile progettata per mantenere e ravvivare l'amore nelle vecchie coppie. Il sito è interamente dinamico e generato utilizzando :",
-            "deutsch": "Dies ist eine Vorzeigeseite für Eden, eine mobile Anwendung, die entwickelt wurde, um die Liebe bei alten Paaren aufrechtzuerhalten und wiederzubeleben. Die Website ist vollständig dynamisch und wird generiert mit :"
-        },
-        "cv": {
-            "english": "MY CV",
-            "french": "Mon CV",
-            "italiano": "Il mio curriculum",
-            "deutsch": "Mein Lebenslauf"
-        },
-        "btncv": {
-            "english": "View CV",
-            "french": "Voir CV",
-            "italiano": "Visualizza CV",
-            "deutsch": "Lebenslauf ansehen"        
-        },
-        "discoverygames": {
-            "english": "Find your fav game 🎮",
-            "french": "Trouve ton jeu préféré 🎮",
-            "italiano": "Trova il tuo gioco preferito 🎮",
-            "deutsch": "Finden Sie Ihr Lieblingsspiel 🎮"        
-        },
-        "lightup": {
-            "english": "Wanna play ?",
-            "french": "Envie de jouer ?",
-            "italiano": "Vuoi giocare ?",
-            "deutsch": "Willst du spielen ?"        
-        },
-        "calculator": {
-            "english": "Check code",
-            "french": "Voir le code",
-            "italiano": "Vedi il codice",
-            "deutsch": "Siehe Code"        
-        },
-        "kituiButton" : {
-            "english": "Generate ur Kit UI now",
-            "french": "Générer votre kit UI",
-            "italiano": "Genera kit UI",
-            "deutsch": "UI-Kit generieren"        
-        },
-        "me": {
-            "english": "Me",
-            "french": "Moi",
-            "italiano": "Me",
-            "deutsch": "Mich"        
-        },
-        "allprojects": {
-            "english": "All my projects",
-            "french": "Tous mes projets",
-            "italiano": "Tutti i miei progetti",
-            "deutsch": "Alle meine Projekte"        
-        },
-        "euler": {
-            "english": "See solutions ?",
-            "french": "Voir les solutions ?",
-            "italiano": "Vedi soluzioni ?",
-            "deutsch": "Lösungen sehen ?"        
-        },
-        "btn_allProjects": {
-            "english": "See all my projects",
-            "french": "Voir tous mes projets",
-            "italiano": "Vedi tutti i miei progetti",
-            "deutsch": "Alle meine Projekte ansehen"     
-        },
-        "btn_eden" : {
-            "english": "Nurture your love ♥️",
-            "french": "Nourrissez votre amour ♥️",
-            "italiano": "Nutri il tuo ♥️",
-            "deutsch": "Pflegen Sie Ihr ♥️"
-        }
+  {
+    "title": {
+      "english": "Hi<span>&#128075;</span><br />I'm Enzo,<br/>The unknown developer",
+      "french": "Salut<span>&#128075;</span><br />Je suis Enzo,<br />Le développeur inconnue",
+      "italiano": "Ciao<span>&#128075;</span><br /> Sono Enzo,<br/>lo sviluppatore sconosciuto",
+      "deutsch": "Hallo<span>&#128075;</span><br /> Ich bin Enzo,<br/> der unbekannte Entwickler"
+    },
+    "portfolio": {
+      "english": "My personal portfolio",
+      "french": "Mon portfolio personnel",
+      "italiano": "Il mio portafoglio personale",
+      "deutsch": "Mein persönliches Portfolio"
+    },
+    "about": {
+      "english": "About me",
+      "french": "A propos de moi",
+      "italiano": "Su di me",
+      "deutsch": "Über mich"
+    },
+    "text_about": {
+      "english": "I'm a developer who is curious and passionate about web development, but more broadly, I love coding in all forms. I'm French and currently pursuing my Tech Lead Master's degree in Bordeaux. I enjoy learning new things and taking on new projects. I'm always looking for new challenges to improve my skills and achieve my goals. If you're looking for a curious and passionate developer, you've come to the right place!",
+      "french": "Je suis un développeur curieux et passionné par le développement web, mais plus largement, j'aime programmer sous toutes ses formes. Je suis Français et poursuis actuellement mon Master de Tech Lead à Bordeaux. J'aime apprendre de nouvelles choses et entreprendre de nouveaux projets. Je suis toujours à la recherche de nouveaux défis pour améliorer mes compétences et atteindre mes objectifs. Si vous cherchez un développeur curieux et passionné, vous êtes au bon endroit !",
+      "italiano": "Sono uno sviluppatore curioso e appassionato di sviluppo web, ma più in generale, amo programmare in tutte le forme. Sono francese e attualmente sto seguendo il mio Master di Tech Lead a Bordeaux. Mi piace imparare cose nuove e prendere nuovi progetti. Sono sempre alla ricerca di nuove sfide per migliorare le mie competenze e raggiungere i miei obiettivi. Se stai cercando uno sviluppatore curioso e appassionato, sei nel posto giusto!",
+      "deutsch": "Ich bin ein Entwickler, der neugierig und leidenschaftlich für Webentwicklung ist, aber im Allgemeinen liebe ich das Codieren in allen Formen. Ich bin Franzose und verfolge derzeit meinen Tech-Lead-Master-Abschluss in Bordeaux. Ich genieße es, neue Dinge zu lernen und neue Projekte anzunehmen. Ich suche immer nach neuen Herausforderungen, um meine Fähigkeiten zu verbessern und meine Ziele zu erreichen. Wenn Sie einen neugierigen und leidenschaftlichen Entwickler, sind Sie hier genau richtig!"
+    },
+    "title2": {
+      "english": "Some of my projects",
+      "french": "Quelques uns de mes projets",
+      "italiano": "Alcuni dei miei progetti",
+      "deutsch": "Einige meiner Projekte"
+    },
+    "project1": {
+      "english": "This is a website that lists over 2400 games. You can view user ratings, game descriptions, screenshots, developers, and much more. The site is entirely dynamic and generated using :",
+      "french": "Il s'agit d'un site Web qui répertorie plus de 2400 jeux. Vous pouvez afficher les évaluations des utilisateurs, les descriptions de jeux, les captures d'écran, les développeurs et bien plus encore. Le site est entièrement dynamique et généré à l'aide de :",
+      "italiano": "Questo è un sito Web che elenca oltre 2400 giochi. Puoi visualizzare le valutazioni degli utenti, le descrizioni dei giochi, gli screenshot, gli sviluppatori e molto altro. Il sito è interamente dinamico e generato utilizzando :",
+      "deutsch": "Dies ist eine Website, die über 2400 Spiele auflistet. Sie können Benutzerbewertungen, Spielbeschreibungen, Screenshots, Entwickler und vieles mehr anzeigen. Die Website ist vollständig dynamisch und wird generiert mit :"
+    },
+    "project2": {
+      "english": "A simple 2D game. In a randomly generated grid with walls, your goal is to light up the entire grid. But be careful, there may be traps. The site is dynamic and generated using :",
+      "french": "Un simple jeu 2D. Dans une grille générée aléatoirement avec des murs, votre objectif est d'éclairer toute la grille. Mais attention, il peut y avoir des pièges. Le site est dynamique et généré à l'aide de :",
+      "italiano": "Un semplice gioco 2D. In una griglia generata casualmente con pareti, il tuo obiettivo è illuminare l'intera griglia. Ma attenzione, potrebbero esserci delle trappole. Il sito è dinamico e generato utilizzando :",
+      "deutsch": "Ein einfaches 2D-Spiel. In einem zufällig generierten Raster mit Wänden ist es Ihr Ziel, das gesamte Raster zu beleuchten. Aber seien Sie vorsichtig, es könnten Fallen sein. Die Seite ist dynamisch und wird generiert mit :"
+    },
+    "project3": {
+      "english": "An image server with a client-side component that allows publishing, viewing, downloading, editing, etc. of images. The entire project is portable and reusable on any distribution. The languages used are :",
+      "french": "Un serveur d'images avec un composant côté client qui permet la publication, la visualisation, le téléchargement, l'édition, etc. d'images. L'ensemble du projet est portable et réutilisable sur n'importe quelle distribution. Les les langages utilisées sont :",
+      "italiano": "Un server di immagini con un componente lato client che consente la pubblicazione, la visualizzazione, il download, la modifica, ecc. delle immagini. L'intero progetto è portatile e riutilizzabile su qualsiasi distribuzione. Le lingue utilizzate sono :",
+      "deutsch": "Ein Bildserver mit einer clientseitigen Komponente, die das Veröffentlichen, Anzeigen, Herunterladen, Bearbeiten usw. von Bildern ermöglicht. Das gesamte Projekt ist portabel und auf jeder Distribution wiederverwendbar. Die verwendeten Sprachen sind :"
+    },
+    "project4": {
+      "english": "A calculator using SDL. It's not just any calculator because it allows you to perform extremely large calculations by performing operations on character strings. The language used is :",
+      "french": "Une calculatrice utilisant SDL. Ce n'est pas n'importe quelle calculatrice car elle permet d'effectuer des calculs extrêmement volumineux en effectuant des opérations sur des chaînes de caractères. Le langage utilisé est :",
+      "italiano": "Una calcolatrice che utilizza SDL. Non è una calcolatrice qualsiasi perché permette di eseguire calcoli estremamente grandi eseguendo operazioni su stringhe di caratteri. Il linguaggio utilizzato è:",
+      "deutsch": "Ein Taschenrechner mit SDL. Es ist nicht irgendein Taschenrechner, da es Ihnen ermöglicht, extrem umfangreiche Berechnungen durchzuführen, indem Sie Operationen an Zeichenfolgen ausführen. Die verwendete Sprache ist :"
+    },
+    "project5": {
+      "english": "A 2D game embodying an adventurer who aims to save his princess. He will have to go through various levels, traps and monsters to achieve his goal. The language used is :",
+      "french": "Un jeu en 2D incarnant un aventurier qui a pour objectif de sauver sa princesse. Il devra passer par différents niveaux, pièges et monstres pour parvenir à son but. Le langage utilisé est :",
+      "italiano": "Un gioco in 2D che incarna un avventuriero che mira a salvare la sua principessa. Dovrà passare attraverso vari livelli, trappole e mostri per raggiungere il suo obiettivo. Il linguaggio utilizzato è:",
+      "deutsch": "Ein 2D-Spiel, das einen Abenteurer verkörpert, der darauf abzielt, seine Prinzessin zu retten. Er muss durch verschiedene Levels, Fallen und Monster gehen, um sein Ziel zu erreichen. Die verwendete Sprache ist :"
+    },
+    "project6": {
+      "english": "C project that allows compiling and displaying a subset of solutions to the mathematical problems from Project Euler (a website that offers mathematical and computer science problems). The language used is :",
+      "french": "Projet C qui permet de compiler et d'afficher un sous-ensemble de solutions aux problèmes mathématiques du projet Euler (un site Web qui propose des problèmes mathématiques et informatiques). Le langage utilisé est :",
+      "italiano": "Progetto C che consente di compilare e visualizzare un sottoinsieme di soluzioni ai problemi matematici da Project Euler (un sito Web che offre problemi matematici e informatici). Il linguaggio utilizzato è:",
+      "deutsch": "C-Projekt, das das Kompilieren und Anzeigen einer Teilmenge von Lösungen für die mathematischen Probleme von Project Euler (einer Website, die mathematische und Informatikprobleme anbietet) ermöglicht. Die verwendete Sprache ist :"
+    },
+    "project7": {
+      "english": "UI kit generator creating custom CSS for HTML components (buttons, grids, typography, etc.). Ensures good UI/UX practices for consistent and ergonomic interfaces. The site is entirely dynamic and generated using :",
+      "french": "Générateur de kit d'interface utilisateur créant du CSS personnalisé pour les composants HTML (boutons, grilles, typographie, etc.). Garantit les bonnes pratiques UI/UX pour interfaces cohérentes et ergonomiques. Le site est entièrement dynamique et généré en utilisant :",
+      "italiano": "Generatore di kit UI che crea CSS personalizzati per componenti HTML (pulsanti, griglie, tipografia, ecc.). Garantisce buone pratiche UI/UX per interfacce coerenti ed ergonomiche. Il sito è interamente dinamico e generato utilizzando:",
+      "deutsch": "UI-Kit-Generator, der benutzerdefiniertes CSS für HTML-Komponenten (Schaltflächen, Raster, Typografie usw.). Sorgt für gute UI/UX-Praktiken für konsistente und ergonomische Schnittstellen. Die Seite ist völlig dynamisch und generiert mit:"
+    },
+    "wawTravel": {
+      "english": "Wow Travel is a website that allows users to post and share road trips with detailed stages. Each itinerary can be visualized on Google Maps for an interactive experience. Users also have an account space to manage and track their adventures. The site is entirely dynamic and generated using :",
+      "french": "Wow Travel est un site Web qui permet aux utilisateurs de publier et de partager des road trips avec des étapes détaillées. Chaque itinéraire peut être visualisé sur Google Maps pour une expérience interactive. Les utilisateurs disposent également d'un espace compte pour gérer et suivre leurs aventures. Le site est entièrement dynamique et généré à l'aide de :",
+      "italiano": "Wow Travel è un sito Web che consente agli utenti di pubblicare e condividere viaggi su strada con tappe dettagliate. Ogni itinerario può essere visualizzato su Google Maps per un'esperienza interattiva. Gli utenti hanno anche uno spazio account per gestire e tenere traccia delle proprie avventure. Il sito è interamente dinamico e generato utilizzando :",
+      "deutsch": "Wow Travel ist eine Website, auf der Benutzer Roadtrips mit detaillierten Etappen posten und teilen können. Für ein interaktives Erlebnis kann jede Reiseroute auf Google Maps visualisiert werden. Benutzer haben außerdem einen Kontobereich, in dem sie ihre Abenteuer verwalten und verfolgen können. Die Website ist vollständig dynamisch und wird erstellt mit :"
+    },
+    "eden": {
+      "english": "This is a showcase site for Eden, a mobile application designed to maintain and rekindle love in old couples. The site is entirely dynamic and generated using :",
+      "french": "Il s’agit d’un site vitrine pour Eden, une application mobile conçue pour entretenir et raviver l’amour dans les vieux couples. Les langages utilisées sont :",
+      "italiano": "Questo è un sito vetrina per Eden, un'applicazione mobile progettata per mantenere e ravvivare l'amore nelle vecchie coppie. Il sito è interamente dinamico e generato utilizzando :",
+      "deutsch": "Dies ist eine Vorzeigeseite für Eden, eine mobile Anwendung, die entwickelt wurde, um die Liebe bei alten Paaren aufrechtzuerhalten und wiederzubeleben. Die Website ist vollständig dynamisch und wird generiert mit :"
+    },
+    "iChess": {
+      "english": "A dynamic chess game where you can play against friends or challenge Stockfish at various difficulty levels. The entire game is dynamically generated using :",
+      "french": "Un jeu d'échecs dynamique où vous pouvez jouer contre des amis ou défier Stockfish à différents niveaux de difficulté. L'ensemble du jeu est généré dynamiquement à l'aide de :",
+      "italiano": "Un gioco di scacchi dinamico in cui puoi giocare contro amici o sfidare Stockfish a vari livelli di difficoltà. L'intero gioco è generato dinamicamente utilizzando :",
+      "deutsch": "Ein dynamisches Schachspiel, bei dem Sie gegen Freunde spielen oder Stockfish auf verschiedenen Schwierigkeitsstufen herausfordern können. Das gesamte Spiel wird dynamisch generiert mit :"
+    },
+    "cv": {
+      "english": "MY CV",
+      "french": "Mon CV",
+      "italiano": "Il mio curriculum",
+      "deutsch": "Mein Lebenslauf"
+    },
+    "btncv": {
+      "english": "View CV",
+      "french": "Voir CV",
+      "italiano": "Visualizza CV",
+      "deutsch": "Lebenslauf ansehen"
+    },
+    "discoverygames": {
+      "english": "Find your fav game 🎮",
+      "french": "Trouve ton jeu préféré 🎮",
+      "italiano": "Trova il tuo gioco preferito 🎮",
+      "deutsch": "Finden Sie Ihr Lieblingsspiel 🎮"
+    },
+    "lightup": {
+      "english": "Wanna play ?",
+      "french": "Envie de jouer ?",
+      "italiano": "Vuoi giocare ?",
+      "deutsch": "Willst du spielen ?"
+    },
+    "calculator": {
+      "english": "Check code",
+      "french": "Voir le code",
+      "italiano": "Vedi il codice",
+      "deutsch": "Siehe Code"
+    },
+    "kituiButton": {
+      "english": "Generate ur Kit UI now",
+      "french": "Générer votre kit UI",
+      "italiano": "Genera kit UI",
+      "deutsch": "UI-Kit generieren"
+    },
+    "me": {
+      "english": "Me",
+      "french": "Moi",
+      "italiano": "Me",
+      "deutsch": "Mich"
+    },
+    "allprojects": {
+      "english": "All my projects",
+      "french": "Tous mes projets",
+      "italiano": "Tutti i miei progetti",
+      "deutsch": "Alle meine Projekte"
+    },
+    "euler": {
+      "english": "See solutions ?",
+      "french": "Voir les solutions ?",
+      "italiano": "Vedi soluzioni ?",
+      "deutsch": "Lösungen sehen ?"
+    },
+    "btn_allProjects": {
+      "english": "See all my projects",
+      "french": "Voir tous mes projets",
+      "italiano": "Vedi tutti i miei progetti",
+      "deutsch": "Alle meine Projekte ansehen"
+    },
+    "btn_eden": {
+      "english": "Nurture your love ♥️",
+      "french": "Nourrissez votre amour ♥️",
+      "italiano": "Nutri il tuo ♥️",
+      "deutsch": "Pflegen Sie Ihr ♥️"
+    },
+    "btn_iChess": {
+      "english": "Play chess now ♟️",
+      "french": "Jouer aux échecs maintenant ♟️",
+      "italiano": "Gioca a scacchi ora ♟️",
+      "deutsch": "Jetzt Schach spielen ♟️"
     }
+  }
 ]
