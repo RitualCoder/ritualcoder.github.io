@@ -90,6 +90,12 @@
       "italiano": "Un gioco di scacchi dinamico in cui puoi giocare contro amici o sfidare Stockfish a vari livelli di difficoltà. L'intero gioco è generato dinamicamente utilizzando :",
       "deutsch": "Ein dynamisches Schachspiel, bei dem Sie gegen Freunde spielen oder Stockfish auf verschiedenen Schwierigkeitsstufen herausfordern können. Das gesamte Spiel wird dynamisch generiert mit :"
     },
+    "runic": {
+      "english": "A dynamic platform where you can create your own Pokémon cards, share them with the community, and download them easily. With an account system, you can save your creations and explore those made by other players! The site is entirely dynamic and generated using:",
+      "french": "Une plateforme dynamique où vous pouvez créer vos propres cartes Pokémon, les partager avec la communauté et les télécharger facilement. Avec un système de compte, vous pouvez sauvegarder vos créations et explorer celles des autres joueurs ! Le site est entièrement dynamique et généré à l'aide de :",
+      "italiano": "Una piattaforma dinamica dove puoi creare le tue carte Pokémon, condividerle con la comunità e scaricarle facilmente. Con un sistema di account, puoi salvare le tue creazioni ed esplorare quelle degli altri giocatori! Il sito è completamente dinamico e generato utilizzando:",
+      "deutsch": "Eine dynamische Plattform, auf der du deine eigenen Pokémon-Karten erstellen, mit der Community teilen und einfach herunterladen kannst. Mit einem Kontosystem kannst du deine Kreationen speichern und die von anderen Spielern erkunden! Die Website ist vollständig dynamisch und wird mithilfe von erstellt:"
+    },
     "cv": {
       "english": "MY CV",
       "french": "Mon CV",
@@ -161,6 +167,12 @@
       "french": "Jouer aux échecs maintenant ♟️",
       "italiano": "Gioca a scacchi ora ♟️",
       "deutsch": "Jetzt Schach spielen ♟️"
+    },
+    "btn_runic": {
+      "english": "Create your first card",
+      "french": "Créez votre première carte",
+      "italiano": "Crea la tua prima carta",
+      "deutsch": "Erstelle deine erste Karte"
     }
   }
 ]

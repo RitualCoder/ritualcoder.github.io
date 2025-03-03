@@ -77,6 +77,11 @@ function replace_text(country) {
     iChess.innerHTML = jsondata[0].iChess[country];
   }
 
+  const runic = document.getElementById("runic");
+  if (runic) {
+    runic.innerHTML = jsondata[0].runic[country];
+  }
+
   const cv = document.getElementById("cv");
   if (cv) {
     cv.innerHTML = jsondata[0].cv[country];
@@ -95,6 +100,11 @@ function replace_text(country) {
   const btn_eden = document.getElementById("btn_eden");
   if (btn_eden) {
     btn_eden.innerHTML = jsondata[0].btn_eden[country];
+  }
+
+  const btn_runic = document.getElementById("btn_runic");
+  if (btn_runic) {
+    btn_runic.innerHTML = jsondata[0].btn_runic[country];
   }
 
   const discoverygames = document.getElementById("discoverygames");
